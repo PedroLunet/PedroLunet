@@ -10,8 +10,10 @@ Currently:
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLunet&layout=compact&langs_count=7&theme=onedark"/>   
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLunet&layout=compact&langs_count=8&theme=onedark"/>   
 </div>
+
+
 <!--
 **PedroLunet/PedroLunet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
