@@ -10,7 +10,7 @@ Currently:
 <br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-one-ruddy-41.vercel.app/api/top-langs/?username=PedroLunet&layout=compact&langs_count=8&theme=onedark"/>   
+  <img height="180em" src="https://github-readme-stats-one-ruddy-41.vercel.app/api/top-langs/?username=PedroLunet&layout=compact&langs_count=6&theme=onedark"/>   
 </div>
 
 
