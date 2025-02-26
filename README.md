@@ -6,7 +6,7 @@
 
 Currently:
 - BA in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
-- Full Stack Dev Intern [@Significa](https://github.com/significa) <br>
+- Full Stack Dev Intern [@Significa](https://github.com/significa) 🥚<br>
 
 <br>
 
