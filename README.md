@@ -1,11 +1,12 @@
 <div align = "center">
 <img href="center" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<h2 align = "center" >Hi, I'm Pedro Lunet </h2>
+<h2 align = "center" >Heyyy, I'm Pedro Lunet </h2>
 </div>
 <br>
 
 Currently:
-- BA in Informatics and Computing Engineering @ [FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+- BA in Informatics and Computing Engineering [@FEUP](https://sigarra.up.pt/feup/pt/web_page.inicial) <br>
+- Full Stack Dev Intern [@Significa](https://github.com/significa) <br>
 
 <br>
 
