@@ -21,52 +21,56 @@
 <!-- Bento Box -->
 <div align="center">
 
-  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-    <tr>
-      <!-- Frontend & Mobile -->
-      <td width="250" height="140" align="center" bgcolor="#373f51" style="border-radius:12px; padding:14px;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="36" alt="Svelte logo" /><br>
-        <strong style="color:#e07a5f;">📱 Frontend & Mobile</strong><br>
-        <span style="color:#ebcfb2;">
-          Passionate about crafting clean, intuitive interfaces for web and mobile.<br>
-          Currently diving deeper into Svelte.
-        </span>
-      </td>
-      <td width="10" style="background-color: transparent;">&nbsp;</td>
-      <!-- dodia.pt -->
-      <td width="250" height="140" align="center" bgcolor="#373f51" style="border-radius:12px; padding:14px;">
-        <img src="https://dodia.pt/favicon.svg" width="36" alt="dodia.pt logo" /><br>
-        <a href="https://dodia.pt" target="_blank" style="text-decoration:none; color:#e07a5f;">
-          <strong>🥘 dodia.pt</strong>
-        </a><br>
-        <span style="color:#ebcfb2;">
-          My intership project: a platform to discover the <em>prato do dia</em>.<br>
-          Built with SvelteKit and a love for local “tascas”.
-        </span>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="3" height="10" style="background-color: transparent;">&nbsp;</td>
-    </tr>
-    <tr>
-      <!-- Tech Stack -->
-      <td width="250" height="140" align="center" bgcolor="#373f51" style="border-radius:12px; padding:14px;">
-        <img src="https://skillicons.dev/icons?i=svelte,react,tailwind" width="100" alt="Tech logos" /><br>
-        <strong style="color:#e07a5f;">⚙️ Tech Stack</strong><br>
-        <span style="color:#ebcfb2;">
-          Svelte • React • Tailwind
-        </span>
-      </td>
-      <td width="10" style="background-color: transparent;">&nbsp;</td>
-      <!-- Focus -->
-      <td width="250" height="140" align="center" bgcolor="#373f51" style="border-radius:12px; padding:14px;">
-        <img src="https://cdn-icons-png.flaticon.com/512/2857/2857527.png" width="36" alt="Design icon" /><br>
-        <strong style="color:#e07a5f;">🎨 Design Meets Code</strong><br>
-        <span style="color:#ebcfb2;">
-          I love blending design and logic, crafting smooth, thoughtful experiences ✨
-        </span>
-      </td>
-    </tr>
-  </table>
+<table>
+  <tr>
+    <td align="center" width="260">
+      <br>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" width="40" alt="Svelte logo" /><br><br>
+      <h3>📱 Frontend & Mobile</h3>
+      <p>
+        Passionate about crafting clean, intuitive interfaces for web and mobile.<br>
+        Currently diving deeper into <strong>Svelte</strong>.
+      </p>
+      <br>
+    </td>
+    <td width="40">&nbsp;</td>
+    <td align="center" width="260">
+      <br>
+      <a href="https://dodia.pt" target="_blank">
+        <img src="https://dodia.pt/favicon.svg" width="40" alt="dodia.pt logo" />
+      </a><br><br>
+      <h3>🥘 <a href="https://dodia.pt" target="_blank">dodia.pt</a></h3>
+      <p>
+        My internship project — a platform to discover the <em>prato do dia</em>.<br>
+        Built with <strong>SvelteKit</strong> and a love for local “tascas”.
+      </p>
+      <br>
+    </td>
+  </tr>
+
+  <tr><td colspan="3"><br></td></tr>
+
+  <tr>
+    <td align="center" width="260">
+      <br>
+      <img src="https://skillicons.dev/icons?i=svelte,react,tailwind" width="110" alt="Tech logos" /><br><br>
+      <h3>⚙️ Tech Stack</h3>
+      <p><strong>Svelte • React • Tailwind</strong></p>
+      <br>
+    </td>
+    <td width="40">&nbsp;</td>
+    <td align="center" width="260">
+      <br>
+      <img src="https://cdn-icons-png.flaticon.com/512/2857/2857527.png" width="40" alt="Design icon" /><br><br>
+      <h3>🎨 Design Meets Code</h3>
+      <p>
+        I love blending design and logic,<br>
+        crafting smooth, thoughtful experiences ✨
+      </p>
+      <br>
+    </td>
+  </tr>
+</table>
 
 </div>
+
