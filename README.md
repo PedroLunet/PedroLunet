@@ -1,5 +1,6 @@
 
-<img width="3478" height="871" alt="Group 1" src="https://github.com/user-attachments/assets/8fcecad9-3784-4dae-95b1-97044d978568" />
+<img width="3478" height="871" alt="Banner" src="https://github.com/user-attachments/assets/00ff5b71-da6d-4de5-bcd7-bca2616849b0" />
+
 
 # 💫 About Me:
 I’m currently diving deeper into frontend development and exploring the creative side of iOS development ✨ (still very new to it, but curious!). I love collaborating on clean, user-focused projects 🤝, and I’m always happy to chat or get help with React, Next.js, Svelte (my favorite!), or anything design-related. I’m learning more about design systems and better ways to structure intuitive interfaces 🌱. Feel free to ask me about music or UI ideas 🎨. I also play bass in a band 🎸, which definitely inspires how I think about rhythm and flow in my code.
