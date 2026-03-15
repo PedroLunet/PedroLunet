@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I’m currently diving deeper into frontend development and exploring the creative side of iOS development ✨ (still very new to it, but curious!). I love collaborating on clean, user-focused projects 🤝, and I’m always happy to chat or get help with React, Next.js, Svelte (my favorite!), or anything design-related. I’m learning more about design systems and better ways to structure intuitive interfaces 🌱. Feel free to ask me about music or UI ideas 🎨. I also play bass in a band 🎸, which definitely inspires how I think about rhythm and flow in my code.
+I’m currently diving deeper into frontend development.   I love collaborating on clean, user-focused projects 🤝, and I’m always happy to chat or get help with React, Next.js, Svelte (my favorite!), or anything design-related. I’m learning more about design systems and better ways to structure intuitive interfaces 🌱. Feel free to ask me about music or UI ideas 🎨. I also play bass in a band 🎸, which definitely inspires how I think about rhythm and flow in my code.
 
 
 ## 🌐 Socials:
@@ -15,8 +15,5 @@ I’m currently diving deeper into frontend development and exploring the creati
 ![](https://nirzak-streak-stats.vercel.app/?user=PedroLunet&theme=slateorange&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLunet&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-
-
+# 💰 You can help me by Donating: 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedrolunet) 
