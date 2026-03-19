@@ -13,7 +13,7 @@ I’m currently diving deeper into frontend development.   I love collaborating 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=PedroLunet&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PedroLunet&theme=slateorange&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLunet&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroLunet&theme=slateorange&hide_border=true&include_all_commits=true&count_private=true&layout=donut-vertical&hide=c%2B%2B,c,prolog,haskell)
 
 # 💰 You can help me by Donating: 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/pedrolunet) 
